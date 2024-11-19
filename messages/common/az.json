@@ -1,0 +1,39 @@
+{
+    "navLinks": [
+        {
+            "href": "/",
+            "label": "Ana Səhifə",
+            "icon": "TiHomeOutline"
+        },
+        {
+            "href": "/haqqimizda",
+            "label": "Haqqımızda",
+            "icon": "IoPersonCircleOutline"
+        },
+        {
+            "href": "/islerimiz",
+            "label": "İşlərimiz",
+            "icon": "work"
+        },
+        {
+            "href": "/bloq",
+            "label": "Bloq",
+            "icon": "blog"
+        },
+        {
+            "href": "/elaqe",
+            "label": "Əlaqə",
+            "icon": "contact"
+        }
+    ],
+    "HomePage": {
+        "title": "Veb həllər təqdim edən İT xidmətləri şirkəti.",
+        "about": "Saytyarat.com olaraq, istifadəçi təcrübələrini optimallaşdıran dizaynlar və həllər üzərində işləyirik. Sizin məmnuniyyətiniz bizim öncəliyimizdir.",
+        "buttonText": "Haqqımızda"
+    },
+    "Newsletter": {
+        "title": " Saytyarat.com'ın Yeniliklər Bülleteni Abunəsi",
+        "description": "Dizayn, texnologiya və mühəndislik sahəsində yeniliklərdən xəbərdar olmaq üçün bülletenimizə abunə olun.",
+        "buttonText": "Abunə ol"
+    }
+}

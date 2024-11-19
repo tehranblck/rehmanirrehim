@@ -1,0 +1,39 @@
+{
+    "navLinks": [
+        {
+            "href": "/",
+            "label": "Home",
+            "icon": "home"
+        },
+        {
+            "href": "/about",
+            "label": "About Us",
+            "icon": "about"
+        },
+        {
+            "href": "/work",
+            "label": "Our Work",
+            "icon": "work"
+        },
+        {
+            "href": "/blog",
+            "label": "Blog",
+            "icon": "blog"
+        },
+        {
+            "href": "/contact",
+            "label": "Contact",
+            "icon": "contact"
+        }
+    ],
+    "HomePage": {
+        "title": "A company providing IT services with web solutions.",
+        "about": "At Saytyarat.com, we work on designs and solutions that optimize user experiences. Your satisfaction is our priority.",
+        "buttonText": "About us"
+    },
+    "Newsletter": {
+        "title": "Subscribe to Saytyarat.com’s Newsletter",
+        "description": "Subscribe to our newsletter to stay updated on the latest in design, technology, and engineering.",
+        "buttonText": "Subscribe"
+    }
+}
