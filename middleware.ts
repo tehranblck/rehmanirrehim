@@ -4,7 +4,7 @@ import { routing } from './i18n/routing';
 
 export default createMiddleware({
     ...routing,
-    defaultLocale: 'az', // Tarayıcı dil algılamasını devre dışı bırakıyoruz
+    localeDetection: false, // Tarayıcı dil algılamasını devre dışı bırakıyoruz
 });
 
 export const config = {

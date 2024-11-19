@@ -10,7 +10,7 @@ export default function Home() {
   return (
     <div className="min-h-[200vh]">
       <Hero />
-      <Work />
+      {/* <Work work={} /> */}
       <Newsletter />
     </div>
   );
